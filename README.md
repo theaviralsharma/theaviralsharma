@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/theaviralsharma/count.svg" />
 </p>
 
-<h1 align="center"># Hi there, I'm Aviral Sharma! 👋</h1>
+<h1 align="center"> Hi there 👋, I'm Aviral Sharma! 👨‍💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theaviralsharma&label=Profile%20views&color=0e75b6&style=flat" alt="theaviralsharma" /> </p>
 
@@ -55,6 +55,7 @@
 </p>
 
 
+---
 
 I'm a passionate **Full Stack Web Developer** with expertise in **MERN STACK, JAVA, C, C++, and Python**.
 
@@ -62,7 +63,7 @@ I'm a passionate **Full Stack Web Developer** with expertise in **MERN STACK, JA
 
 ## 🔭 Projects
 ### [SearchRaw - You Search, We Serve](#)
-A comprehensive search engine designed to provide accurate and efficient search results.
+Provide the Best and Most effective Information and Updates Happening Around the Internet.
 
 ---
 
@@ -96,12 +97,12 @@ A comprehensive search engine designed to provide accurate and efficient search 
 ---
 
 ## 🚀 Contributions
-Not Yet
 
 ---
 
 ## 🌐 Languages
-- **JavaScript**
+- **English**
+- **Hindi**
 
 ---
 
