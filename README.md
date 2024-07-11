@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/theaviralsharma/count.svg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aviral Sharma</h1>
+<h1 align="center"># Hi there, I'm Aviral Sharma! 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theaviralsharma&label=Profile%20views&color=0e75b6&style=flat" alt="theaviralsharma" /> </p>
 
@@ -54,7 +54,7 @@
   </a> 
 </p>
 
-# Hi there, I'm Aviral Sharma! 👋
+
 
 I'm a passionate **Full Stack Web Developer** with expertise in **MERN STACK, JAVA, C, C++, and Python**.
 
