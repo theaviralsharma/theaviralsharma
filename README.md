@@ -54,13 +54,6 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaviralsharma&show_icons=true&locale=en&layout=compact" alt="theaviralsharma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaviralsharma&show_icons=true&locale=en" alt="theaviralsharma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaviralsharma&" alt="theaviralsharma" /></p>
-
-
 # Hi there, I'm Aviral Sharma! 👋
 
 I'm a passionate **Full Stack Web Developer** with expertise in **MERN STACK, JAVA, C, C++, and Python**.
