@@ -1,6 +1,6 @@
 # Hi there, I'm Aviral Sharma! 👋
 
-![Profile Picture]([https://x.com/theaviralsharma/photo](https://pbs.twimg.com/profile_images/1587149908322054144/qaaQ3C5G_400x400.jpg))
+![Profile Picture]([https://x.com/theaviralsharma/photo](https://pbs.twimg.com/profile_images/1587149908322054144/qaaQ3C5G_400x400.jpg])
 
 I'm a passionate **Full Stack Web Developer** with expertise in **MERN STACK, JAVA, C, C++, and Python**.
 
