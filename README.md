@@ -92,11 +92,6 @@ Provide the Best and Most effective Information and Updates Happening Around the
 ## 🎤 Personal Interests
 - **UI/UX Designing**
 - **Singing**
-- **Listening to Songs**
-
----
-
-## 🚀 Contributions
 
 ---
 
