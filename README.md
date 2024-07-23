@@ -68,10 +68,10 @@ Provide the Best and Most effective Information and Updates Happening Around the
 ---
 
 ## 🌟 Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Angular
+- **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js, MongoDB, SQL
 - **Programming Languages:** JAVA, C, C++, Python
-- **Others:** Git, Docker, CI/CD, REST APIs
+- **Others:** Git, REST APIs
 
 ---
 
