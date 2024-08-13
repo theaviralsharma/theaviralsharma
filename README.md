@@ -81,7 +81,7 @@ Provide the Best and Most effective Information and Updates Happening Around the
 ---
 
 ## 🌐 Contact Information
-- **Email:** [beingaviralsharma@gmail.com](mailto:beingaviralsharma@gmail.com)
+- **Email:** [theaviralsharma.work@gmail.com](mailto:theaviralsharma.work@gmail.com)
 - **LinkedIn:** [@theaviralsharma](https://linkedin.com/in/theaviralsharma)
 - **Twitter:** [@theaviralsharma](https://twitter.com/theaviralsharma)
 - **Instagram:** [@theaviralsharma](https://instagram.com/theaviralsharma)
