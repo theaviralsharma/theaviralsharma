@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **MERN Stack, Java, C, C++, Python, and JavaScript**
 
-- 📫 How to reach me **beingaviralsharma@gmail.com**
+- 📫 How to reach me **theaviralsharma.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
